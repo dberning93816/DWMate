@@ -1,0 +1,19 @@
+1, Business Manager
+1, Pipeline
+1, Demandware Script
+1, ISML
+1, XML
+1, Javascript
+1, Pipelet
+1, Order
+1, Test
+1, Specification
+1, Code
+
+2, Flow
+2, Encoding
+2, Matrix
+2, Consistence
+2, Redundance
+2, Formatting
+2, Frequency

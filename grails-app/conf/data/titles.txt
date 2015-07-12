@@ -1,0 +1,30 @@
+1, Junior
+1, Senior
+1, Vice
+1, Premier
+1, Main
+1, Trainee
+
+2, Business Manager
+2, Pipeline
+2, Demandware Script
+2, ISML
+2, XML
+2, Javascript
+2, Pipelet
+2, Order
+2, Test
+2, Specification
+2, Code
+
+3, Extender
+3, Coder
+3, Forwarder
+3, Designer
+3, Carver
+3, Assistant
+3, Executive
+3, Architect
+3, Engineer
+3, Programmer
+3, Brogrammer
